@@ -1,0 +1,14 @@
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\bin\Debug\netcoreapp2.1\VkListener.deps.json
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\bin\Debug\netcoreapp2.1\VkListener.runtimeconfig.json
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\bin\Debug\netcoreapp2.1\VkListener.runtimeconfig.dev.json
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\bin\Debug\netcoreapp2.1\VkListener.dll
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\obj\Debug\netcoreapp2.1\VkListener.csprojAssemblyReference.cache
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\obj\Debug\netcoreapp2.1\VkListener.csproj.CoreCompileInputs.cache
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\obj\Debug\netcoreapp2.1\VkListener.RazorAssemblyInfo.cache
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\obj\Debug\netcoreapp2.1\VkListener.RazorAssemblyInfo.cs
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\obj\Debug\netcoreapp2.1\VkListener.AssemblyInfoInputs.cache
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\obj\Debug\netcoreapp2.1\VkListener.AssemblyInfo.cs
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\obj\Debug\netcoreapp2.1\VkListener.RazorTargetAssemblyInfo.cache
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\bin\Debug\netcoreapp2.1\VkListener.pdb
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\obj\Debug\netcoreapp2.1\VkListener.dll
+C:\Users\joe\Desktop\VkCbBot\VkListener\VkListener\VkListener\obj\Debug\netcoreapp2.1\VkListener.pdb
